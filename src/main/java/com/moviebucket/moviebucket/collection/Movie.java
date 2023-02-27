@@ -25,6 +25,6 @@ public class Movie {
     private String poster;
     private List<String> backdrops;
     @DocumentReference
-    private List<Review> reviewId;
+    private List<Review> reviewIds;
 
 }
